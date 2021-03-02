@@ -1,6 +1,6 @@
 {
   "name": "naver-talktalk-ui-ts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "NAVER talktalk Chatbot's component wrappers - for typescript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
