@@ -1,7 +1,7 @@
 {
-  "name": "kakao-i-ui-ts",
-  "version": "1.3.10",
-  "description": "Kakao i Open Builder Chatbot's component wrappers - for typescript",
+  "name": "naver-talktalk-ui-ts",
+  "version": "0.0.1",
+  "description": "NAVER talktalk Chatbot's component wrappers - for typescript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -19,15 +19,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ATJSH/kakao-i-ui-ts.git"
+    "url": "git+https://github.com/ATJSH/naver-talktalk-ui-ts.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ATJSH/kakao-i-ui-ts/issues"
+    "url": "https://github.com/ATJSH/naver-talktalk-ui-ts/issues"
   },
-  "homepage": "https://github.com/ATJSH/kakao-i-ui-ts#readme",
+  "homepage": "https://github.com/ATJSH/naver-talktalk-ui-ts#readme",
   "devDependencies": {
     "@types/jest": "^26.0.20",
     "@types/lodash": "^4.14.168",
